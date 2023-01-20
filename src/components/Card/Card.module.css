@@ -1,0 +1,31 @@
+.div {
+    float: left;
+    margin: 2rem;
+    background: #090952;
+    color: rgb(255, 255, 255);
+    width: 350px;
+    padding: 20px;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.377);
+    border-radius: 20px;
+}
+
+
+.img {
+    border-radius: 20px;
+}
+
+.texto {
+    display: flex;
+    justify-content: center;
+    margin-inline: 1rem;
+}
+
+.h2 {
+    margin: 1rem;
+}
+
+.cerrar {
+    float: right;
+    background-color: aqua;
+    border-radius: 0.2rem;
+}
